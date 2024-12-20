@@ -11,7 +11,7 @@ El péndulo invertido es un problema clásico en aprendizaje por refuerzo y cont
 - Se utiliza **Deep Q-Learning** para entrenar un modelo que aprenda a estabilizar el péndulo invertido.
 - Se integran **redes neuronales cuánticas** como aproximadores de funciones de valor Q, demostrando su potencial en entornos simulados.
 
-El entrenamiento se realiza en el entorno **CartPole-v1** de Gym, con un simulador cuántico proporcionado por **PennyLane**.
+El entrenamiento se realiza en el entorno **CartPole-v1** de Gymnasium, con un simulador cuántico proporcionado por **PennyLane**.
 
 ---
 
