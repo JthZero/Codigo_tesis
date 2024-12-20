@@ -19,6 +19,6 @@ El entrenamiento se realiza en el entorno **CartPole-v1** de Gym, con un simulad
 
 1. Asegúrate de tener instaladas las dependencias principales:
    - **Python 3.8+**
-   - **Gym** (OpenAI Gym)
+   - **Gymnasium** (OpenAI Gymnasium)
    - **PyTorch**
    - **PennyLane**
